@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2641895537",
+    "project_id": "popustest",
+    "storage_bucket": "popustest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2641895537:android:e69b62eb31435f94147bd0",
+        "android_client_info": {
+          "package_name": "vf.smart.popustest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2641895537-r6bug5i68kteiceh2poi4nl87u1548al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkf5nyIUfoUKkwyqrnXtozYw7Qzj8Qw54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2641895537-r6bug5i68kteiceh2poi4nl87u1548al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
